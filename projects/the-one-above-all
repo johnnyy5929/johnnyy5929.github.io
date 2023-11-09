@@ -47,7 +47,8 @@
             <h1 class="margin text-center">The-one-above-all</h1>
             <p>Text about the project</p>
             <p>More text about the project.</p>
-            <a href="#">https://the-one-above-all.johnnyy9.repl.co/</a><br>
+            <a href="https://the-one-above-all.johnnyy9.repl.co/">Link to project</a><br>
+<a href="https://replit.com/@johnnyy9/The-one-above-all">Preview of code</a><br>
 
             <!--EXAMPLE OF PREVIEW LINK-->
             <!--<a href="http://yourUserName.github.io/yourRepoName">Preview</a><br>-->
